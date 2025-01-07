@@ -1,0 +1,10 @@
+{
+  "botToken": "YOUR_TELEGRAM_BOT_TOKEN",
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "username": "YOUR_DB_USERNAME",
+    "password": "YOUR_DB_PASSWORD",
+    "database": "YOUR_DB_NAME"
+  }
+}

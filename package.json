@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot using Telegraf and TypeORM with MySQL.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "typeorm": "^0.2.41",
+    "telegraf": "^4.4.0",
+    "mysql2": "^2.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
