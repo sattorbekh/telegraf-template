@@ -34,7 +34,7 @@ This project is a Telegram bot built using Node.js, TypeORM, Telegraf, and MySQL
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/sattorbekh/telegraf-template telegram-bot
    cd telegram-bot
    ```
 
